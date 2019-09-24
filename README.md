@@ -10,3 +10,5 @@ Broken but readable. Uses pandemic and TeXstudio to illustrate headings, boldfac
 Work in progress.
 
 2019-09-24T0221
+
+2019-09-24T2323 Basically fixed by \usepackage{hyperref}. Will enhance furthereg to use that for ToC.
